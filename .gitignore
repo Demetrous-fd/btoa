@@ -1,1 +1,5 @@
 /.idea
+/dist
+/src/btoa.egg-info
+/venv
+__pycache__

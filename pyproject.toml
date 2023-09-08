@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "btoa"
+version = "1.0"
+authors = [
+  { name="LazyDeus", email="dimaprodeus@yandex.ru" },
+]
+description = "Python implementation btoa and atob functions from javascript"
+requires-python = ">=3.6"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/Demetrous-fd/btoa"
+"Bug Tracker" = "https://github.com/Demetrous-fd/btoa/issues"
