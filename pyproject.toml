@@ -4,11 +4,12 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "btoa"
-version = "1.0"
+version = "1.0.1"
 authors = [
   { name="LazyDeus", email="dimaprodeus@yandex.ru" },
 ]
 description = "Python implementation btoa and atob functions from javascript"
+readme = "readme.md"
 requires-python = ">=3.6"
 classifiers = [
     "Programming Language :: Python :: 3",
